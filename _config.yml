@@ -4,7 +4,7 @@
 
 # Site settings
 title: "Alessandro Bianchetti"
-description: "Welcome to my personal website - I'm something of a scientist myself."
+description: "Welcome to my personal website - _I'm something of a scientist myself._"
 url: "https://blackbianca.github.io"
 baseurl: ""  # leave empty for GitHub Pages user/organization sites
 
