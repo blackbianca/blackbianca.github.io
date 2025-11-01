@@ -17,7 +17,8 @@ author:
   location: "Padova, Italy."
 
 # Theme
-remote_theme: "pages-themes/cayman@v0.2.0"
+remote_theme: daattali/beautiful-jekyll
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
