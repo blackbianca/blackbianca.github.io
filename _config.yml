@@ -17,16 +17,12 @@ author:
   location: "Padova, Italy."
 
 # Theme
-theme: minima   # or try jekyll-theme-cayman, jekyll-theme-midnight, etc.
-# If you want to customize beyond built-in themes:
-# remote_theme: "pages-themes/cayman@v0.2.0"
-
-# Plugins (GitHub Pages supports these)
+remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
 
 # Pagination
 paginate: 5
