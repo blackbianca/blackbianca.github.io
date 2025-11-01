@@ -3,18 +3,18 @@
 # ==============================
 
 # Site settings
-title: "My Awesome Site"
-description: "Welcome to my digital corner — where ideas, projects, and creativity meet!"
+title: "Alessandro Bianchetti"
+description: "Welcome to my personal website - I'm something of a scientist myself."
 url: "https://yourusername.github.io"
 baseurl: ""  # leave empty for GitHub Pages user/organization sites
 
 # Author info
 author:
-  name: "Your Name"
-  email: "you@example.com"
-  bio: "Developer | Designer | Dreamer"
-  avatar: "/assets/images/avatar.png"  # optional, add your own image
-  location: "🌍 Earth"
+  name: "Alessandro Bianchetti"
+  email: "bianchettialessandro7@gmail.com"
+  bio: "Radio Astronomer | Noob Programmer | Physicist | Funny guy, sometimes"
+  avatar: "/assets/images/propic.jpg"  # optional, add your own image
+  location: "Padova, Italy."
 
 # Theme
 theme: minima   # or try jekyll-theme-cayman, jekyll-theme-midnight, etc.
@@ -34,11 +34,9 @@ paginate_path: "/blog/page:num/"
 
 # SEO + Social
 social_links:
-  github: "https://github.com/yourusername"
-  linkedin: "https://linkedin.com/in/yourusername"
-  twitter: "https://twitter.com/yourhandle"
-  instagram: "https://instagram.com/yourusername"
-  devto: "https://dev.to/yourusername"
+  github: "https://github.com/blackbianca"
+  linkedin: "https://www.linkedin.com/in/alessandro-bianchetti-9a56491ba/"
+  instagram: "https://www.instagram.com/pale_ale__/"
 
 # Navigation
 nav:
