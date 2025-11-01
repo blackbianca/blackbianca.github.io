@@ -13,7 +13,7 @@ author:
   name: "Alessandro Bianchetti"
   email: "bianchettialessandro7@gmail.com"
   bio: "Radio Astronomer | Noob Programmer | Physicist | Funny guy, sometimes"
-  avatar: "/assets/images/propic.jpg"  # optional, add your own image
+  avatar: "/images/propic.jpg"  # optional, add your own image
   location: "Padova, Italy."
 
 # Theme
