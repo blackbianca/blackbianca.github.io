@@ -1,3 +1,82 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# ==============================
+#   Jekyll Site Configuration
+# ==============================
+
+# Site settings
+title: "My Awesome Site"
+description: "Welcome to my digital corner — where ideas, projects, and creativity meet!"
+url: "https://yourusername.github.io"
+baseurl: ""  # leave empty for GitHub Pages user/organization sites
+
+# Author info
+author:
+  name: "Your Name"
+  email: "you@example.com"
+  bio: "Developer | Designer | Dreamer"
+  avatar: "/assets/images/avatar.png"  # optional, add your own image
+  location: "🌍 Earth"
+
+# Theme
+theme: minima   # or try jekyll-theme-cayman, jekyll-theme-midnight, etc.
+# If you want to customize beyond built-in themes:
+# remote_theme: "pages-themes/cayman@v0.2.0"
+
+# Plugins (GitHub Pages supports these)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# SEO + Social
+social_links:
+  github: "https://github.com/yourusername"
+  linkedin: "https://linkedin.com/in/yourusername"
+  twitter: "https://twitter.com/yourhandle"
+  instagram: "https://instagram.com/yourusername"
+  devto: "https://dev.to/yourusername"
+
+# Navigation
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Blog"
+    link: "/blog/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "About"
+    link: "/about/"
+  - name: "Contact"
+    link: "/contact/"
+
+# Markdown & Syntax Highlighting
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    line_numbers: true
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Google Analytics (optional)
+google_analytics: "UA-XXXXXXXXX-X"
+
+# Sitemap & Feed
+feed:
+  path: feed.xml
