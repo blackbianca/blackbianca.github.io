@@ -5,7 +5,7 @@ title: "Projects"
 
 # 🚀 Projects
 <!-- Renders Markdown (italics) from _config.yml -->
-<p style="text-align:center; margin-top: 0.5rem;">{{ site.description | markdownify }}</p>
+*[I'm something of a scientist myself]([https://www.skao.int/en/science-users/science-working-groups/111/hi-galaxy-science](https://www.youtube.com/watch?v=D_oTxsHK5d8))*
 
 Here’s a closer look at my coding and research work.
 
