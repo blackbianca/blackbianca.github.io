@@ -15,12 +15,12 @@ Here’s a closer look at my current work.
 ## HI in star-forming galaxies beyond the Local Universe
 Constraining HI properties of star-forming galaxies at intermediate redshift, with stacking. Gathering clues on the evolution of the baryon cycle throughout cosmic time
 
-- [MHI-M* scaling relation: ](https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8)
-- [HIMF and Cosmic Density: ](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)
+- [MHI-M* scaling relation →](https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8)
+- [HIMF and Cosmic Density →](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)
 
 ## HI in passive galaxies
 Neutral hydrogen fuels star formation, but does it stick around in quiescent galaxies? If so, what traces it?
-[Check here for more](https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract)
+[Check here for more →](https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract)
 
 ## Spectral Stacking Pipeline
 A code designed to stack low signal-to-noise spectra to detect mean information on HI content at intermediate redshift, in radio data.  
@@ -33,5 +33,5 @@ Work in progress.
 
 ## superMIGHTEE - stacking at z=1
 Interactive 3D visualization of large-scale cosmic structure.  
-[View Survey Paper]([https://github.com/blackbianca/cosmicwebviz](https://iopscience.iop.org/article/10.3847/1538-4357/adf6dc)).
+[View Survey Paper →]([https://github.com/blackbianca/cosmicwebviz](https://iopscience.iop.org/article/10.3847/1538-4357/adf6dc)).
 Work in progress.
