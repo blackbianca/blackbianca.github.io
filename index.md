@@ -52,3 +52,4 @@ Full list on the [Publications page](/publications/).
 - MIGHTEE
 - EDFS-MeerKAT
 - superMIGHTEE
+- **[SKAO](https://www.skao.int/en/science-users/science-working-groups/111/hi-galaxy-science):** Square Kilometer Array Observatory. Planning to intercept the 21-cm hydrogen line at unprecedented sensitivity, and distance.
