@@ -8,9 +8,6 @@ title: "Home"
 
 <h1 style="text-align:center; margin-top: 1rem;">{{ site.author.name }}</h1>
 
-<!-- Renders Markdown (italics) from _config.yml -->
-<p style="text-align:center; margin-top: 0.5rem;">{{ site.description | markdownify }}</p>
-
 <!-- Bio -->
 <p style="text-align:center; font-style:italic;">{{ site.author.bio }}</p>
 
