@@ -5,7 +5,7 @@ title: "Publications"
 
 # Publications
 
-## 🧪 First-Author Papers
+## First-Author Papers
 
 ### 2025
 **Bianchetti, A.**, F. Sinigaglia, G. Rodighiero, *et al.*  
@@ -20,7 +20,7 @@ _arXiv e-prints_, Jul 2025.
 
 ---
 
-## 🤝 Co-Author Papers
+## Co-Author Papers
 
 ### 2025
 **Sinigaglia, F.**, **Bianchetti, A.**, G. Rodighiero, L. Mayer, M. Dessauges-Zavadsky, E. Elson, M. Vaccari, M. J. Jarvis  
@@ -30,7 +30,7 @@ _arXiv e-prints_, Jun 2025.
 
 ---
 
-## 🌍 Collaboration Papers
+## Collaboration Papers
 
 ### 2025
 **Jarvis, M. J.**, M. N. Tudorache, I. Heywood, *et al.*  
