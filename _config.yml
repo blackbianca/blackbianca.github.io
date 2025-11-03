@@ -14,7 +14,7 @@ author:
   email: "bianchettialessandro7@gmail.com"
   bio: "Radio Astronomer | Noob Programmer | Physicist"
   avatar: "/images/propic.jpg"  # optional, add your own image
-  location: "Padova, Italy."
+  location: "Padova, Italy"
 
 # Theme
 remote_theme: "pages-themes/cayman@v0.2.0"
