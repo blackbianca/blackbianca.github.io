@@ -6,6 +6,6 @@ title: "About"
 <h1 style="text-align:center;">About Me</h1>
 
 Hi, I’m **{{ site.author.name }}**, currently based in **{{ site.author.location }}**.  
-I’m passionate about **radio astronomy**, **physics** and **data science**. My research interests focus on **galaxy evolution** and **HI science**. 
+I’m passionate about **radio astronomy**, **physics** and **data science**. My research interests focus on **galaxy evolution** and **HI science**. Recently trying to improve my programming skills.
 
 I enjoy hiking: bought a tent as the result of an anticipated midlife crisis. I also play futsal, play the bass, like gaming and RPGs. Not good in none of these things.
