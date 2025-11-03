@@ -4,6 +4,7 @@ title: "Projects"
 ---
 
 # Projects
+
 <p style="text-align:right;">
   <a href="https://www.youtube.com/watch?v=D_oTxsHK5d8" target="_blank" style="color:inherit; text-decoration:none;">
     <em>I'm something of a scientist myself</em>
@@ -12,26 +13,89 @@ title: "Projects"
 
 Here’s a closer look at my current work.
 
-## HI in star-forming galaxies beyond the Local Universe
-Constraining HI properties of star-forming galaxies at intermediate redshift, with stacking. Gathering clues on the evolution of the baryon cycle throughout cosmic time
+---
 
-- [MHI-M* scaling relation →](https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8)
-- [HIMF and Cosmic Density →](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)
+<!-- Project 1 -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; margin:2rem 0;">
+  <div style="flex:1; min-width:260px;">
+    <h2>HI in star-forming galaxies beyond the Local Universe</h2>
+    <p>
+      Constraining HI properties of star-forming galaxies at intermediate redshift, with stacking.
+      Gathering clues on the evolution of the baryon cycle throughout cosmic time.
+    </p>
+    <ul>
+      <li><a href="https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8">MHI–M* scaling relation</a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract">HIMF and Cosmic Density</a></li>
+    </ul>
+  </div>
+  <div style="flex:1; min-width:260px; text-align:center;">
+    <img src="/images/projects/hi_galaxies.jpg" alt="HI in galaxies" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
-## HI in passive galaxies
-Neutral hydrogen fuels star formation, but does it stick around in quiescent galaxies? If so, what traces it?
-[Check here for more →](https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract)
+---
 
-## Spectral Stacking Pipeline
-A code designed to stack low signal-to-noise spectra to detect mean information on HI content at intermediate redshift, in radio data.  
-Built with **Python, NumPy, SciPy, and Matplotlib**.  
-[View on GitHub →](https://github.com/blackbianca/stacker)
+<!-- Project 2 -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; margin:2rem 0; flex-direction:row-reverse;">
+  <div style="flex:1; min-width:260px;">
+    <h2>HI in passive galaxies</h2>
+    <p>
+      Neutral hydrogen fuels star formation, but does it stick around in quiescent galaxies?
+      If so, what traces it?  
+      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract">Check here for more.</a>
+    </p>
+  </div>
+  <div style="flex:1; min-width:260px; text-align:center;">
+    <img src="/images/projects/passive_hi.jpg" alt="HI in passive galaxies" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
-## EDFS MeerKAT - data reduction
-Using *[Caracal](https://caracal.readthedocs.io/en/latest/)* to reduce L1 MeerKAT data on the Euclid Deep Field South: preparing for the biggest HI stacking experiment ever?
-Work in progress.
+---
 
-## superMIGHTEE - stacking at z=1
-Interactive 3D visualization of large-scale cosmic structure.  
-[View Survey Paper →]([https://github.com/blackbianca/cosmicwebviz](https://iopscience.iop.org/article/10.3847/1538-4357/adf6dc)).
-Work in progress.
+<!-- Project 3 -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; margin:2rem 0;">
+  <div style="flex:1; min-width:260px;">
+    <h2>Spectral Stacking Pipeline</h2>
+    <p>
+      A code designed to stack low signal-to-noise spectra to detect mean information on HI content at intermediate redshift in radio data.  
+      Built with <strong>Python, NumPy, SciPy, and Matplotlib</strong>.
+    </p>
+    <p><a href="https://github.com/blackbianca/stacker" target="_blank">View on GitHub →</a></p>
+  </div>
+  <div style="flex:1; min-width:260px; text-align:center;">
+    <img src="/images/projects/stacker.jpg" alt="Spectral Stacking Pipeline" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
+
+---
+
+<!-- Project 4 -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; margin:2rem 0; flex-direction:row-reverse;">
+  <div style="flex:1; min-width:260px;">
+    <h2>EDFS MeerKAT – Data Reduction</h2>
+    <p>
+      Using <a href="https://caracal.readthedocs.io/en/latest/">Caracal</a> to reduce L1 MeerKAT data on the Euclid Deep Field South.  
+      Preparing for the biggest HI stacking experiment ever — work in progress.
+    </p>
+  </div>
+  <div style="flex:1; min-width:260px; text-align:center;">
+    <img src="/images/projects/edfs_meerkat.jpg" alt="EDFS MeerKAT data reduction" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
+
+---
+
+<!-- Project 5 -->
+<div style="display:flex; flex-wrap:wrap; align-items:center; margin:2rem 0;">
+  <div style="flex:1; min-width:260px;">
+    <h2>superMIGHTEE – stacking at z=1</h2>
+    <p>
+      Interactive 3D visualization of large-scale cosmic structure.  
+      <a href="https://iopscience.iop.org/article/10.3847/1538-4357/adf6dc" target="_blank">View survey paper →</a>  
+      Work in progress.
+    </p>
+  </div>
+  <div style="flex:1; min-width:260px; text-align:center;">
+    <img src="/images/projects/supermightee.jpg" alt="superMIGHTEE project" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
+  </div>
+</div>
