@@ -4,6 +4,8 @@ title: "Projects"
 ---
 
 # 🚀 Projects
+<!-- Renders Markdown (italics) from _config.yml -->
+<p style="text-align:center; margin-top: 0.5rem;">{{ site.description | markdownify }}</p>
 
 Here’s a closer look at my coding and research work.
 
