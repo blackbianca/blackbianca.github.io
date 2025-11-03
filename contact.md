@@ -8,7 +8,7 @@ title: "Contacts"
 
 <ul style="list-style:none; padding-left:0;">
   <li style="margin:8px 0;">
-    <img src="/icons/email.svg" alt="Email" width="20" style="vertical-align:middle; margin-right:8px;">
+    <img src="/icons/gmail.svg" alt="Email" width="20" style="vertical-align:middle; margin-right:8px;">
     <a href="mailto:{{ site.author.email }}">Email</a>
   </li>
   <li style="margin:8px 0;">
