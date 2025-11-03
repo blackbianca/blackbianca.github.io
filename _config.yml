@@ -39,10 +39,10 @@ social_links:
 nav:
   - name: "Home"
     link: "/"
-  - name: "Blog"
-    link: "/blog/"
   - name: "Projects"
     link: "/projects/"
+  - name: "Publications"
+    link: "/publications/"
   - name: "About"
     link: "/about/"
   - name: "Contact"
