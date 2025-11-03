@@ -20,24 +20,15 @@ I am into HI science, and enjoy every step of it, from data reduction to beautif
 
 ---
 
-### Featured Projects
 
-A few things I’ve been working on lately:
+### Featured publications
 
-- **[Pulsar Finder](https://github.com/blackbianca/pulsar-finder):** A Python tool to analyze pulsar timing data.  
-- **[StarPy](https://github.com/blackbianca/starpy):** A small astronomy package for stellar spectra visualization.  
-- **[CosmicWebViz](https://github.com/blackbianca/cosmicwebviz):** Interactive visualization of the cosmic web using Python + D3.js.
-
-See more on the [Projects page](/projects/).
-
----
-
-### 📚 Recent Publications
-
-- *Bianchetti et al. (2024)* — “Detection of Fast Radio Bursts with LOFAR.”  
-  _Astrophysical Journal_ [[ADS](https://ui.adsabs.harvard.edu/)]
-- *Bianchetti et al. (2023)* — “Machine Learning for Pulsar Classification.”  
-  _Monthly Notices of the RAS_
+- *Bianchetti et al. (2025b)* — “Atomic hydrogen reservoirs in quiescent galaxies at z = 0.4”  
+  _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract)]
+- *Sinigaglia et al. (2025b)* — “Semi-empirical constraints on the HI mass function of star-forming galaxies and  ΩHI at  z∼0.37 from interferometric survey.”  
+  _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)]
+- *Gandolfi et al. (2025)* — “Mysteries of Capotauro -- investigating the puzzling nature of an extreme F356W-dropout”  
+  _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250901664G/abstract)]
 
 Full list on the [Publications page](/publications/).
 
