@@ -4,15 +4,19 @@ title: "Projects"
 ---
 
 # Projects
-<!-- Renders Markdown (italics) from _config.yml -->
-<p style="text-align:right;"> *[I'm something of a scientist myself](https://www.youtube.com/watch?v=D_oTxsHK5d8)*
+<p style="text-align:right;">
+  <a href="https://www.youtube.com/watch?v=D_oTxsHK5d8" target="_blank" style="color:inherit; text-decoration:none;">
+    <em>I'm something of a scientist myself</em>
+  </a>
 </p>
 
 Here’s a closer look at my current work.
 
 ### HI in star-forming galaxies beyond the Local Universe
 Constraining HI properties of star-forming galaxies at intermediate redshift, with stacking. Gathering clues on the evolution of the baryon cycle throughout cosmic time
+
 [MHI-M* scaling relation: ](https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8)
+
 [HIMF and Cosmic Density: ](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)
 
 ### Spectral Stacking Pipeline
