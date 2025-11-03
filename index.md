@@ -45,8 +45,8 @@ Full list on the [Publications page](/publications/).
 
 ### Collaborations
 
-- Euclid
-- MIGHTEE
-- EDFS-MeerKAT
-- superMIGHTEE
+- **[Euclid](https://euclid.caltech.edu/):** The geometry of the Universe, the nature of Dark Matter.
+- **[MIGHTEE](https://www.mighteesurvey.org/):** Observing neutral hydrogen in the COSMOS field.
+- **EDFS-MeerKAT:** MeerKAT's sensitivity and Euclid's spectroscopic coverage: what more?
+- **[superMIGHTEE](https://gateway.idia.ac.za/pages/supermigthee-dr1/):** Leveraging the potential of both MeerKAT and uGMRT to allow our stacking pipeline to glance as far as ever.
 - **[SKAO](https://www.skao.int/en/science-users/science-working-groups/111/hi-galaxy-science):** Square Kilometer Array Observatory. Planning to intercept the 21-cm hydrogen line at unprecedented sensitivity, and distance.
