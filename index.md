@@ -23,7 +23,7 @@ I am into HI science, and enjoy every step of it, from data reduction to beautif
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 A few things I’ve been working on lately:
 
@@ -31,7 +31,7 @@ A few things I’ve been working on lately:
 - **[StarPy](https://github.com/blackbianca/starpy):** A small astronomy package for stellar spectra visualization.  
 - **[CosmicWebViz](https://github.com/blackbianca/cosmicwebviz):** Interactive visualization of the cosmic web using Python + D3.js.
 
-👉 See more on the [Projects page](/projects/).
+See more on the [Projects page](/projects/).
 
 ---
 
@@ -42,7 +42,7 @@ A few things I’ve been working on lately:
 - *Bianchetti et al. (2023)* — “Machine Learning for Pulsar Classification.”  
   _Monthly Notices of the RAS_
 
-👉 Full list on the [Publications page](/publications/).
+Full list on the [Publications page](/publications/).
 
 ---
 
@@ -52,17 +52,3 @@ A few things I’ve been working on lately:
 - MIGHTEE
 - EDFS-MeerKAT
 - superMIGHTEE
-
-### 🌐 Connect with me
-
-<div style="text-align:center; font-size:1.1em;">
-  <a href="{{ site.social_links.github }}" target="_blank">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="{{ site.social_links.linkedin }}" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="{{ site.social_links.instagram }}" target="_blank">📸 Instagram</a>
-</div>
-
----
-
-<p style="text-align:center; color:gray; font-size:0.9em; margin-top:2rem;">
-Made with ❤️ and the <a href="https://github.com/pages-themes/cayman">Cayman</a> theme.
-</p>
