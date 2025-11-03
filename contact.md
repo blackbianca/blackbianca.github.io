@@ -3,7 +3,7 @@ layout: default
 title: "Contact"
 ---
 
-# Contact Me
+<h1 style="text-align:center;">Contact Me</h1>
 
 <!-- ✉️ Email Section -->
 <p style="font-size:1.1em; text-align:center;">
