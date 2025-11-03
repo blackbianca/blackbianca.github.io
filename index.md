@@ -15,7 +15,7 @@ title: "Home"
 
 ### Bio
 
-Hi! I’m Alessandro, I am a radio astronomer, currently based in {{ site.author.location }}
+Hi! I’m Alessandro, I am a radio astronomer, currently based in {{ site.author.location }}.
 I am into HI science, and enjoy every step of it, from data reduction to 21-cm images. This website gathers some information about me.
 
 ---
