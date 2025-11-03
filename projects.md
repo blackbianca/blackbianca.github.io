@@ -24,8 +24,8 @@ Here’s a closer look at my current work.
       Gathering clues on the evolution of the baryon cycle throughout cosmic time.
     </p>
     <ul>
-      <li><a href="https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8">MHI–M* scaling relation</a></li>
-      <li><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract">HIMF and Cosmic Density</a></li>
+      <li><a href="https://iopscience.iop.org/article/10.3847/1538-4357/adb1b8">MHI–M* scaling relation →</a></li>
+      <li><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract">HIMF and Cosmic Density →</a></li>
     </ul>
   </div>
   <div style="flex:1; min-width:260px; text-align:center; padding-left:2rem;">
@@ -44,7 +44,7 @@ Here’s a closer look at my current work.
     <p>
       Neutral hydrogen fuels star formation, but does it stick around in quiescent galaxies?
       If so, what traces it?  
-      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract">Check here for more.</a>
+      <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract">Check here for more →</a>
     </p>
   </div>
   <div style="flex:1; min-width:260px; text-align:center; padding-right:2rem;">
