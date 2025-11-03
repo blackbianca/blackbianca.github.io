@@ -27,8 +27,8 @@ I am into HI science, and enjoy every step of it, from data reduction to beautif
   _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250716917B/abstract)]
 - *Sinigaglia et al. (2025b)* — “Semi-empirical constraints on the HI mass function of star-forming galaxies and  ΩHI at  z∼0.37 from interferometric survey.”  
   _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250611280S/abstract)]
-- *Gandolfi et al. (2025)* — “Mysteries of Capotauro -- investigating the puzzling nature of an extreme F356W-dropout”  
-  _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250901664G/abstract)]
+- *Gandolfi et al. (2025)* — “Ultra High-Redshift or Closer-by, Dust-Obscured Galaxies? Deciphering the Nature of Faint, Previously Missed F200W-Dropouts in CEERS”  
+  _Astronomy & Astrophysics_ [[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250202637G/abstract)]
 
 Full list on the [Publications page](/publications/).
 
