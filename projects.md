@@ -31,9 +31,6 @@ Here’s a closer look at my current work.
   <div style="flex:1; min-width:260px; text-align:center; padding-left:2rem;">
     <figure style="margin:0;">
       <img src="/images/hi_galaxies.png" alt="HI in galaxies" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
-      <figcaption style="font-size:0.85em; color:gray; margin-top:6px;">
-        Image credit: <a href="https://example.com/source1" target="_blank" style="color:gray;">NASA / ESA / Hubble</a>
-      </figcaption>
     </figure>
   </div>
 </div>
@@ -53,9 +50,6 @@ Here’s a closer look at my current work.
   <div style="flex:1; min-width:260px; text-align:center; padding-right:2rem;">
     <figure style="margin:0;">
       <img src="/images/passive_hi.png" alt="HI in passive galaxies" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
-      <figcaption style="font-size:0.85em; color:gray; margin-top:6px;">
-        Image credit: <a href="https://example.com/source2" target="_blank" style="color:gray;">Author / Observatory</a>
-      </figcaption>
     </figure>
   </div>
 </div>
@@ -75,9 +69,6 @@ Here’s a closer look at my current work.
   <div style="flex:1; min-width:260px; text-align:center; padding-left:2rem;">
     <figure style="margin:0;">
       <img src="/images/stacker.png" alt="Spectral Stacking Pipeline" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
-      <figcaption style="font-size:0.85em; color:gray; margin-top:6px;">
-        Image credit: <a href="https://example.com/source3" target="_blank" style="color:gray;">Author / GitHub Repo</a>
-      </figcaption>
     </figure>
   </div>
 </div>
@@ -97,7 +88,7 @@ Here’s a closer look at my current work.
     <figure style="margin:0;">
       <img src="/images/edfs_meerkat.png" alt="EDFS MeerKAT data reduction" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
       <figcaption style="font-size:0.85em; color:gray; margin-top:6px;">
-        Image credit: <a href="https://example.com/source4" target="_blank" style="color:gray;">MeerKAT Collaboration</a>
+        Image credit: <a href="https://euclid.caltech.edu/page/euclid-deep-fields" target="_blank" style="color:gray;">From Euclid</a>
       </figcaption>
     </figure>
   </div>
@@ -110,7 +101,7 @@ Here’s a closer look at my current work.
   <div style="flex:1; min-width:260px; padding-right:2rem;">
     <h2>superMIGHTEE – stacking at z=1</h2>
     <p>
-      Interactive 3D visualization of large-scale cosmic structure.  
+      Working on generating HI cubes from MeerKAT+uGMRT observations, that will allow stacking up to z=1.  
       <a href="https://iopscience.iop.org/article/10.3847/1538-4357/adf6dc" target="_blank">View survey paper →</a>  
       Work in progress.
     </p>
@@ -119,7 +110,7 @@ Here’s a closer look at my current work.
     <figure style="margin:0;">
       <img src="/images/supermightee.png" alt="superMIGHTEE project" style="max-width:100%; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
       <figcaption style="font-size:0.85em; color:gray; margin-top:6px;">
-        Image credit: <a href="https://example.com/source5" target="_blank" style="color:gray;">MIGHTEE Collaboration</a>
+        Image credit: <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...991....9L/abstract" target="_blank" style="color:gray;">superMIGHTEE Survey Paper</a>
       </figcaption>
     </figure>
   </div>
